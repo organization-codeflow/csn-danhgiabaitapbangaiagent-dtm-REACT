@@ -1,5 +1,5 @@
 # csn-danhgiabaitapbangaiagent-dtm-REACT
-## 📋 Hướng dẫn Đánh giá Code Tự động cho Sinh viên
+## 📋 Đánh giá bài tập bằng ai agent
 
 ### 🎯 Mục tiêu
 Repository này đã được thiết lập để tự động đánh giá chất lượng code thông qua GitHub Actions và SonarCloud khi bạn push code lên nhánh **master**.
