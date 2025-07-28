@@ -17,7 +17,7 @@ export default function NoData({ className }: { className?: string }) {
       )}
       <TextHeading className="text-5xl font-bold">No result found</TextHeading>
       <TextDescription className="text-center">
-        Please try again with different keywords
+        Làm ơn quay lại trang chủ
       </TextDescription>
     </div>
   );
